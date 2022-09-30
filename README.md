@@ -1,6 +1,6 @@
 # Thread-safe-Binary-Search-Tree
 
-C# project - Introduction to operating systems course.
+C# project - Introduction to operating systems course 2nd semester, 2nd year.
 
 Binary search tree (BST) is an elementary data structure in computer science in which the value in a node is greater than all the values in the node's left subtree and less than those in its right subtree.
 
