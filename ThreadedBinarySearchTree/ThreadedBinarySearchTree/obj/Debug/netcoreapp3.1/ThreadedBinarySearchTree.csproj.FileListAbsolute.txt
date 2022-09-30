@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\bin\Debug\netcoreapp3.1\ThreadedBinarySearchTree.exe
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\bin\Debug\netcoreapp3.1\ThreadedBinarySearchTree.deps.json
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\bin\Debug\netcoreapp3.1\ThreadedBinarySearchTree.runtimeconfig.json
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\bin\Debug\netcoreapp3.1\ThreadedBinarySearchTree.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\bin\Debug\netcoreapp3.1\ThreadedBinarySearchTree.dll
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\bin\Debug\netcoreapp3.1\ThreadedBinarySearchTree.pdb
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.dll
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.pdb
+C:\Users\ASUS\source\repos\ThreadedBinarySearchTree\ThreadedBinarySearchTree\obj\Debug\netcoreapp3.1\ThreadedBinarySearchTree.genruntimeconfig.cache
